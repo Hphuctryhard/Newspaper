@@ -1,0 +1,8 @@
+Redis: 
+-Sử dụng list để lưu lịch sử bài viết 
+- Sử dụng sorted list để lưu danh sách các bài viết có lượt xem cao nhất 
+- HLL để đếm unique view 
+- Sets
+-Redis search 
+-open ai để tạo description of news
+- firebase để lưu hình ảnh lên storage 
